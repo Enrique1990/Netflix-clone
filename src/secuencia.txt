@@ -1,0 +1,17 @@
+copy de api en postmannpm run build
+npx create-react-app nombre del projecto 
+configure firebase 
+add web app in firebase 
+npm install -g firebas-tools en otra consola 
+npm start
+npm i axios
+npm i react-youtube
+npm i movie-trailer
+firebase logout
+firebase login
+firebase init 
+hosting: configure...
+use an existin projrct
+select ptojrct.
+build
+y
